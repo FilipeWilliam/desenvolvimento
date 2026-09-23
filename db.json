@@ -20,6 +20,13 @@
       "email": "administrador@ifc.com.br",
       "senha": "456",
       "id": "KXjnWRySRu8"
+    },
+    {
+      "nome": "Filipe",
+      "tipo": "1",
+      "email": "lipe.will18@gmail.com",
+      "senha": "uhasudhauhsd",
+      "id": "8tD6GDyOXZU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
